@@ -21,8 +21,12 @@ QQ:3017765 群文件
 
 ### 2020.6.11
 [Story plot generation based on CBR](https://www.researchgate.net/publication/285319204_Story_Plot_Generation_based_on_CBR "Story plot generation based on CBR")
+
 [Unsupervised Learning of Narrative Event Chains](https://www.aclweb.org/anthology/P08-1090.pdf "Unsupervised Learning of Narrative Event Chains")
+
 [Event Representations for Automated Story Generation with Deep Neural Nets](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17046/15769 "Event Representations for Automated Story Generation with Deep Neural Nets")
+
 [Plan-And-Write: Towards Better Automatic Storytelling](http://vnpeng.net/papers/AAAI19-story-planning.pdf "Plan-And-Write: Towards Better Automatic Storytelling")
+
 [Story Generation with Crowdsourced Plot Graphs](https://www.cc.gatech.edu/~riedl/pubs/aaai13.pdf "Story Generation with Crowdsourced Plot Graphs")
 
