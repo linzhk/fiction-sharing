@@ -15,8 +15,11 @@ QQ:3017765 群文件
 ## 资源
 
 [清华故事生成](https://github.com/THUNLP-MT/TG-Reading-List#text_generation "清华故事生成")
+
 [知识图谱](ownthink.com "知识图谱")
+
 [微信小程序开发](developers.weixin.qq.com "微信小程序开发")
+
 [transformer-xl在中文文本生成上的尝试](https://github.com/GaoPeng97/transformer-xl-Chinese "transformer-xl在中文文本生成上的尝试")
 
 ## 老师分享
