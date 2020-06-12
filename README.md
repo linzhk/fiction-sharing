@@ -17,6 +17,7 @@ QQ:3017765 群文件
 [清华故事生成](https://github.com/THUNLP-MT/TG-Reading-List#text_generation "清华故事生成")
 
 [知识图谱](ownthink.com "知识图谱")
+[常识中文图谱](http://openkg.cn/group/commonsense)
 
 [微信小程序开发](developers.weixin.qq.com "微信小程序开发")
 
